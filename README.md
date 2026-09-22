@@ -1,2 +1,2 @@
-# mandiayin.jpg.github.io
+# mandiayin-jpg.github.io
 Personal  site
